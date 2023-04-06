@@ -12,6 +12,7 @@ body main {
   height: 100vh;
 }
 body main .main-container {
+  margin: 0 auto;
   background: rgb(44, 44, 44);
   display: flex;
   flex-direction: column;
